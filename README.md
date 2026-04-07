@@ -1,1 +1,1 @@
-# GTPBDMM
+# GTPBD-MM
