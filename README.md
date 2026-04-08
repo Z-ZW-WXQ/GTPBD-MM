@@ -12,7 +12,7 @@ This repository is the official code and resource repository for the paper **"GT
 ### 2. GTPBD-MM Dataset
 
 - The GTPBD-MM dataset is publicly available.
-- It can be accessed and downloaded via the Hugging Face Datasets platform: [https://huggingface.co/datasets/wxqzzw/GTD](https://huggingface.co/datasets/wxqzzw/GTD)
+- It can be accessed and downloaded via the Hugging Face Datasets platform: [https://huggingface.co/datasets/wxqzzw/GTPBD-MM/tree/main]((https://huggingface.co/datasets/wxqzzw/GTPBD-MM/tree/main))
 - We strongly recommend visiting the official dataset page for the latest access instructions and terms of use.
 
 ## 🗂️ Dataset Overview (GTPBD-MM)
